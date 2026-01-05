@@ -5,12 +5,6 @@ function App() {
   return (
     <>
       <MenuAppBar />;
-      <div><h1>meu c
-        
-        
-        
-        u</h1></div>
-
       <ImageCarrossel />
     </>
   );
